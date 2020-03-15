@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,QACE,WACA,oBAAsB","file":"static/css/main.cf909cb2.css","sourcesContent":[".active {\n  color: yellow;\n  text-decoration: none;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
