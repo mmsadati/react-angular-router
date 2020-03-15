@@ -1,6 +1,6 @@
 # react-angular-router
 
-> angular route simulator in react
+> Angular route simulator in ReactJs
 
 [![NPM](https://img.shields.io/npm/v/react-angular-router.svg)](https://www.npmjs.com/package/react-angular-router) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
